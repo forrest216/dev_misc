@@ -57,9 +57,3 @@ google() {
 mdn() {
  google "$*+site:developer.mozilla.org&btnI=1s"
 }
-
-
-# ----------- Twilio ---------------
-export TWILIO_ACCOUNT_SID=AC2ea642d272fa1eceaae9310c60e520c3
-export TWILIO_AUTH_TOKEN=b502d6ce37d700002dcfc04576688ffb
-export TWILIO_PHONE_NUMBER=+12162796306
